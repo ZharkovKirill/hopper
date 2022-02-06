@@ -11,5 +11,5 @@ Structurally, the system consists of:
 - Spring adjuster
 - Regulator switch
 
-Implemented speed control, maximum speed 0.2m/s.
+Implemented speed control, maximum speed 0.2m/s. For start simulation launch file **hopper_script.mlx**.
 
