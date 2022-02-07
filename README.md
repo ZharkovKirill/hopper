@@ -8,7 +8,7 @@ Structurally, the system consists of:
 - Controller stance
 - Touch angle selection
 - Angle selection during the touch phase
-- Spring adjuster
+- Spring controller
 - Regulator switch
 
 Implemented speed control, maximum speed 0.2m/s. For start simulation launch file **hopper_script.mlx**.
